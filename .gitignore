@@ -1,0 +1,52 @@
+# =========================
+# Windows system files
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+
+# =========================
+# Build files (C/C++)
+# =========================
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.dSYM/
+*.stackdump
+
+# =========================
+# Debug files
+# =========================
+*.log
+*.gdb_history
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.cache
+
+# =========================
+# CMake (if used)
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# =========================
+# CodeBlocks / Dev-C++
+# =========================
+*.layout
+*.depend
+bin/
+obj/
